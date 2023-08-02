@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
 <!--
 **LisaComments/lisacomments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
