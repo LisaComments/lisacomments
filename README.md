@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
+🌸 Name's Lisa. I don't do nicknames unless I formally permit it to you.
+⚒️ I am working on building up small businesses as both a software engineer and brand specialist.
+🪴 My current tech stack includes PHP, SASS, Bootstrap, and JS.
+🦄 My interest in computers started from making Xanga layouts and Neopets (surprise).
+🤔 Looking for help with landing a startup role **remote** or in **Philadelphia**.
+💬 Ask me about my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha.
+⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
 <!--
 **LisaComments/lisacomments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
