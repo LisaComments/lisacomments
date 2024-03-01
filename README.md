@@ -14,6 +14,11 @@
 💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha. 
 
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@matchamenace/30-nites-of-code)  
+  ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
+
 <!--
 **LisaComments/lisacomments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
