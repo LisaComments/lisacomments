@@ -1,3 +1,4 @@
+![Welcome to LisaComments' Github!](https://github.com/LisaComments/lisacomments/blob/main/gitbanner.png)
 ## hey, hey ~ 👋
 ![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
 
