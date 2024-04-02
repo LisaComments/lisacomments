@@ -73,7 +73,7 @@ ___
 ___
 <h1 align="center">Let's Catch Up!</h1>
 <div align="center">
-<a href="www.linkedin.com/in/lisaysinn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lisaysinn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 
