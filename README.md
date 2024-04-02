@@ -34,6 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lisacomments&theme=jolly&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+Have+I+Been+Up+To%3F" alt="On My Radar" /></a>
+</div>
+
 
 ## 🐣 Meet My Coding Tamagotchi: Tinkytink 
   ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
