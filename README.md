@@ -31,7 +31,7 @@
 </div>
 
 
-## My Coding Tamagotchi: Tinkytink 🐣
+## 🐣 Meet My Coding Tamagotchi: Tinkytink 
   ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
 
 <!--
