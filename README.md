@@ -21,8 +21,8 @@
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&repeat=false&random=false&width=435&lines=Stats+Say%3A" alt="Stats Say..." /></a>
-</div>div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Stats+Say%3A" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisacomments&theme=jolly&show_icons=true&hide_border=false&layout=compact" />
