@@ -15,8 +15,7 @@
 
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
 
-## My Coding Tamagotchi: Tinkytink:
-  [Check out my progress!](https://www.codedex.io/@matchamenace/30-nites-of-code)  
+## My Coding Tamagotchi: Tinkytink 🐣
   ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
 
 <!--
