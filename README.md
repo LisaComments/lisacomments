@@ -1,7 +1,8 @@
 ![Welcome to LisaComments' Github!](https://github.com/LisaComments/lisacomments/blob/main/gitbanner.png)
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1000&color=F73DB5&background=B852FF00&center=true&vCenter=true&random=false&width=435&lines=%E1%9E%87%E1%9F%86%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9E%9F%E1%9E%BD%E1%9E%9A.+Bonjour.++Xin+ch%C3%A0o.)](https://git.io/typing-svg)
-</p>
+<div align="right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1000&color=F73DB5&background=B852FF00&center=true&vCenter=true&random=false&width=435&lines=%E1%9E%87%E1%9F%86%E1%9E%9A%E1%9E%B6%E1%9E%94%E1%9E%9F%E1%9E%BD%E1%9E%9A.+Bonjour.++Xin+ch%C3%A0o." alt="Hello!" /></a>
+</div>
+
 
 ![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
 
