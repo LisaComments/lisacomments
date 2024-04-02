@@ -29,6 +29,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lisacomments&theme=jolly&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lisacomments&theme=jolly&show_icons=true&hide_border=false&count_private=true" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lisacomments&theme=jolly&show_icons=true&hide_border=false&count_private=true" />
