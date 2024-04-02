@@ -19,6 +19,7 @@
 💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha. 
 
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
+___
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Stats+Say%3A" alt="Typing SVG" /></a>
@@ -39,9 +40,18 @@
 
 - Nal's Nails (version 1.5)
 
+___
 
-## 🐣 Meet My Coding Tamagotchi: Tinkytink 
-  ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Stackin'+Up" alt="Tech Stack" /></a>
+</div>
+
+___
+<div align="center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=487&lines=%F0%9F%90%A3+Meet+My+Tamagotchi%3A+Tinkytink" alt="Typing SVG" /></a>
+  <img src="https://www.codedex.io/api/petStatus?user=matchamenace">
+</div>
+
 
 <!--
 **LisaComments/lisacomments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
