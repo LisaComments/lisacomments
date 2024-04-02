@@ -1,5 +1,4 @@
 ![Welcome to LisaComments' Github!](https://github.com/LisaComments/lisacomments/blob/main/gitbanner.png)
-## hey, hey ~ 👋
 ![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
 
 🌸 Name: Lisa. 
@@ -10,13 +9,13 @@
 
 🦄 Started from: making Xanga layouts and Neopets (surprise). 
 
-🤔 Help me: land a startup role **remote** or in **Philadelphia**. 
+🤔 Help me: land a startup role **remote**, **Atlanta**, or in **Philadelphia**. 
 
 💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha. 
 
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
 
-## #30NitesOfCode:
+## My Coding Tamagotchi: Tinkytink:
   [Check out my progress!](https://www.codedex.io/@matchamenace/30-nites-of-code)  
   ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
 
