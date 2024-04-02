@@ -4,7 +4,7 @@
 </div>
 
 
-![Alt text](https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png)
+<div align="center"><img src="https://github.com/LisaComments/lisacomments/blob/5b0ae931c0f464b0a2959a12b7bdec23e9a1adc1/stardewvalleypic.png"></div>
 
 🌸 Name: Lisa. 
 
@@ -19,6 +19,10 @@
 💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha. 
 
 ⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lisacomments&theme=jolly&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub Streak" /></a>
+</div>
 
 ## My Coding Tamagotchi: Tinkytink 🐣
   ![@matchamenace #30NitesOfCode](https://www.codedex.io/api/petStatus?user=matchamenace)
