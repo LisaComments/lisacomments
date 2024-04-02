@@ -49,6 +49,8 @@ ___
 ___
 <div align="center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=487&lines=%F0%9F%90%A3+Meet+My+Tamagotchi%3A+Tinkytink" alt="Typing SVG" /></a>
+</div>
+<div align="center">
   <img src="https://www.codedex.io/api/petStatus?user=matchamenace">
 </div>
 
