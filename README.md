@@ -40,6 +40,7 @@ ___
 </div>
 
 - Nal's Nails (version 1.5)
+- Headstarter AI fellowship
 
 ___
 
