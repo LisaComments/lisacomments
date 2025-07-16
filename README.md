@@ -10,15 +10,15 @@
 
 ⚒️ Working on: small businesses as both a software engineer and brand specialist. 
 
-🪴 Tech stack: PHP, SASS, Bootstrap, and JS. 
+🪴 Tech stack: PHP, TailwindCSS, Bootstrap, and JS. 
 
 🦄 Started from: making Xanga layouts and Neopets (surprise). 
 
-🤔 Help me: land a startup role **remote**, in **Atlanta**, or in **Philadelphia**. 
+🤔 Help me: land a role **remote**, in **Atlanta**, **Philadelphia**, or in **Sydney**. 
 
-💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and your favorite way to drink matcha. 
+💬 Ask me about: my calico cat, ACNH, Hello Kitty Island Adventure, and my favorite matcha lattes. 
 
-⚡️ Fun fact: I can bend my left thumb all the way down to my wrist. WBU?
+⚡️ Fun fact: I can bend my left thumb all the way down to my wrist.
 ___
 
 <div align="center">
@@ -41,6 +41,7 @@ ___
 
 - Data Structures and Algorithms in python
 - Writing on my technical blog
+- Attending technical conferences and making new friends
 
 ___
 
