@@ -39,8 +39,8 @@ ___
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Serif&weight=800&size=24&duration=.1&pause=1000&color=F74CA9&center=true&vCenter=true&repeat=false&random=false&width=435&lines=What+Have+I+Been+Up+To%3F" alt="On My Radar" /></a>
 </div>
 
-- Nal's Nails (version 1.5)
-- Headstarter AI fellowship
+- Data Structures and Algorithms in python
+- Writing on my technical blog
 
 ___
 
